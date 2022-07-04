@@ -1,6 +1,6 @@
 {
   "name": "@phamleduy04/cheshire",
-  "version": "2.0.4",
+  "version": "2.0.5",
   "description": "TLRU / LRU cache based on @discordjs/collections",
   "main": "index.js",
   "types": "index.d.ts",
