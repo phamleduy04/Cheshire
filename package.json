@@ -1,6 +1,6 @@
 {
   "name": "@phamleduy04/cheshire",
-  "version": "2.0.6",
+  "version": "2.0.7",
   "description": "TLRU / LRU cache based on @discordjs/collections",
   "main": "index.js",
   "types": "index.d.ts",
@@ -25,6 +25,6 @@
   ],
   "dependencies": {
     "fun-dispatcher": "^1.2.6",
-    "@discordjs/collection": "^1.0.0"
+    "@discordjs/collection": "^1.5.1"
   }
 }

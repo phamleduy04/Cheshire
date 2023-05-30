@@ -1,21 +1,21 @@
-lockfileVersion: 5.4
-
-specifiers:
-  '@discordjs/collection': ^1.0.0
-  fun-dispatcher: ^1.2.6
+lockfileVersion: '6.0'
 
 dependencies:
-  '@discordjs/collection': 1.0.0
-  fun-dispatcher: 1.2.6
+  '@discordjs/collection':
+    specifier: ^1.5.1
+    version: 1.5.1
+  fun-dispatcher:
+    specifier: ^1.2.6
+    version: 1.2.6
 
 packages:
 
-  /@discordjs/collection/1.0.0:
-    resolution: {integrity: sha512-nAxDQYE5dNAzEGQ7HU20sujDsG5vLowUKCEqZkKUIlrXERZFTt/60zKUj/g4+AVCGeq+pXC5hivMaNtiC+PY5Q==}
+  /@discordjs/collection@1.5.1:
+    resolution: {integrity: sha512-aWEc9DCf3TMDe9iaJoOnO2+JVAjeRNuRxPZQA6GVvBf+Z3gqUuWYBy2NWh4+5CLYq5uoc3MOvUQ5H5m8CJBqOA==}
     engines: {node: '>=16.9.0'}
     dev: false
 
-  /fun-dispatcher/1.2.6:
+  /fun-dispatcher@1.2.6:
     resolution: {integrity: sha512-lw6LoVrReV6qlaADvy0ua9a1f3W9qGLd8BBfLnzIV0YCfZd3jo5caZsgBBGOw/tO50P783iFEK8aTSwtQ67KDQ==}
     engines: {node: '>=12.1'}
     dev: false
